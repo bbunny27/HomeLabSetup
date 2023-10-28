@@ -8,4 +8,5 @@
 <p>Network Attached Storage?</p>
 <h3>TailScale</h3>
 <p>I've gone ahead and set up a <a href="https://tailscale.com/kb/1133/proxmox/">Tailscale VPN Host</a> using an lightweight linux container.</p>
+<h3>Updates:</h3>
 <p>10/28/23 update: I have set up several linux mint VM's, and am now running my tailscale on one of said mint vms. I have also set up the VM with no-ip which is a service that will automatically update my IP address on the server when it changes, because I have a dynamic IP and cannot afford a static one.</p>
