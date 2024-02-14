@@ -10,4 +10,4 @@
 <p>I've gone ahead and set up a <a href="https://tailscale.com/kb/1133/proxmox/">Tailscale VPN Host</a> using an lightweight linux container.</p>
 <h3>Updates:</h3>
 <p>10/28/23 update: I have set up several linux mint VM's, and am now running my tailscale on one of said mint vms. I have also set up the VM with no-ip which is a service that will automatically update my IP address on the server when it changes, because I have a dynamic IP and cannot afford a static one.</p>
-<p>2/14/2023 update: I am working on setting up a firewall for my network running virtually on the server.</p>
+<p>2/14/24 update: I am working on setting up a firewall for my network running virtually on the server.</p>
