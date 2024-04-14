@@ -1,13 +1,12 @@
 <h1>My Homelab Setup!</h1>
-<h2>So I bought a server...</h2>
-<h3>It's a Dell Server second hand and I am using it to homelab! I'll be talking about it here and I'd like to set some goals.</h3>
-<p>Goals:</p>
-<p>Host my own VPN</p>
-<p>Host Win11, Unix, and Kali Virtual machines. </p></p>
-<p>Host some kind of silly web app.</p>
-<p>Network Attached Storage?</p>
-<h3>TailScale</h3>
-<p>I've gone ahead and set up a <a href="https://tailscale.com/kb/1133/proxmox/">Tailscale VPN Host</a> using an lightweight linux container.</p>
-<h3>Updates:</h3>
-<p>10/28/23 update: I have set up several linux mint VM's, and am now running my tailscale on one of said mint vms. I have also set up the VM with no-ip which is a service that will automatically update my IP address on the server when it changes, because I have a dynamic IP and cannot afford a static one.</p>
-<p>2/14/24 update: I am working on setting up a firewall for my network running virtually on the server.</p>
+<h4>Pre-Setup Goals</h4>
+<p>I would like a seperate network for my devices, and a DMZ Network for all my roommates devices.</p>
+<p>I want a VPN into the network, and a PFsense or Opensense firewall.</p>
+<p>I'd like to implement a seprate VLAN to publicly host a minecraft server for my friends on.</p>
+<p>I'd like to set up a NAS device.</p>
+<h4>Current Technology</h4>
+<p>Old Dell Laptop</p>
+<p>12U Rack</p>
+<p>Old Gaming Machine</p>
+<p>Dell Poweredge Server</p>
+<p>8 port unmanaged cisco switch</p>
