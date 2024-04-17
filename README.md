@@ -10,3 +10,7 @@
 <p>Old Gaming Machine</p>
 <p>Dell Poweredge Server</p>
 <p>8 port unmanaged cisco switch</p>
+<p>HP Elitedesk G2</p>
+--------------------------------------------------------------------------------------------------------------------------------
+<h3>Archetecture</h3>
+<p>My ISP Modem connects to HP Elitedesk which is running as a pFSense Firewall. This also serves as my VPN Server, with the built in pFsense OpenVPN Configuration.</p>
